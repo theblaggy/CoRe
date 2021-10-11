@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+python3 core/src/CoRe.py core/ai_templates/crazy.py ai/ai1.py

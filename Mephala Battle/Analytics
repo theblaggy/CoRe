@@ -1,0 +1,33 @@
+# Mephala:
+
+startet mit den corner sides
+systematisches auffüllen der seiten, von der corner side richtung seiten mitte
+nicht in corners oder corner diags
+maximaler symbol kontakt ?
+hardcore killer
+versucht sich am rand geschlossen zu halten ?
+schlechte auswahl bei gleichem rating ?
+schlechtes rating ?
+bei gleichem rating letzeres feld auf dem board
+versucht lines zu brechen ?
+versucht line zu bilden ?
+corners vor corner diags ODER saft sich am ende ?
+zuerst corner unten links ?
+
+
+# Ich:
+
+seiten auffüllen an symbol dran setzen
+wenn auf beiden seiten der ecke nur noch jeweils ein feld frei ist, auf ecke setzen, danach auffüllen, falls noch frei
+wenn line lang genug, dann corner diag
+an symbol setzten
+
+
+# TODO:
+risiko für corners und corner diags prüfen
++ versuche enemy zu killen anstatt symbol zu safen
+
+
+
+# FIXED:
+prüfen an wie viele von meinen stein oder rand felder ich grenze
